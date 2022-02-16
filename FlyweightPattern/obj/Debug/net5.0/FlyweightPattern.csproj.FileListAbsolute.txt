@@ -1,0 +1,17 @@
+/Users/mercy/Desktop/examples/csharp/RGDP/FlyweightPattern/bin/Debug/net5.0/FlyweightPattern.deps.json
+/Users/mercy/Desktop/examples/csharp/RGDP/FlyweightPattern/bin/Debug/net5.0/FlyweightPattern.runtimeconfig.json
+/Users/mercy/Desktop/examples/csharp/RGDP/FlyweightPattern/bin/Debug/net5.0/FlyweightPattern.runtimeconfig.dev.json
+/Users/mercy/Desktop/examples/csharp/RGDP/FlyweightPattern/bin/Debug/net5.0/FlyweightPattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/FlyweightPattern/bin/Debug/net5.0/ref/FlyweightPattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/FlyweightPattern/bin/Debug/net5.0/FlyweightPattern.pdb
+/Users/mercy/Desktop/examples/csharp/RGDP/FlyweightPattern/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/FlyweightPattern/obj/Debug/net5.0/FlyweightPattern.csproj.AssemblyReference.cache
+/Users/mercy/Desktop/examples/csharp/RGDP/FlyweightPattern/obj/Debug/net5.0/FlyweightPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mercy/Desktop/examples/csharp/RGDP/FlyweightPattern/obj/Debug/net5.0/FlyweightPattern.AssemblyInfoInputs.cache
+/Users/mercy/Desktop/examples/csharp/RGDP/FlyweightPattern/obj/Debug/net5.0/FlyweightPattern.AssemblyInfo.cs
+/Users/mercy/Desktop/examples/csharp/RGDP/FlyweightPattern/obj/Debug/net5.0/FlyweightPattern.csproj.CoreCompileInputs.cache
+/Users/mercy/Desktop/examples/csharp/RGDP/FlyweightPattern/obj/Debug/net5.0/FlyweightPattern.csproj.CopyComplete
+/Users/mercy/Desktop/examples/csharp/RGDP/FlyweightPattern/obj/Debug/net5.0/FlyweightPattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/FlyweightPattern/obj/Debug/net5.0/ref/FlyweightPattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/FlyweightPattern/obj/Debug/net5.0/FlyweightPattern.pdb
+/Users/mercy/Desktop/examples/csharp/RGDP/FlyweightPattern/obj/Debug/net5.0/FlyweightPattern.genruntimeconfig.cache

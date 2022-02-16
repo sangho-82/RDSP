@@ -1,0 +1,15 @@
+/Users/mercy/Desktop/examples/csharp/RGDP/StrategyPattern/bin/Debug/net5.0/StrategyPattern.deps.json
+/Users/mercy/Desktop/examples/csharp/RGDP/StrategyPattern/bin/Debug/net5.0/StrategyPattern.runtimeconfig.json
+/Users/mercy/Desktop/examples/csharp/RGDP/StrategyPattern/bin/Debug/net5.0/StrategyPattern.runtimeconfig.dev.json
+/Users/mercy/Desktop/examples/csharp/RGDP/StrategyPattern/bin/Debug/net5.0/StrategyPattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/StrategyPattern/bin/Debug/net5.0/ref/StrategyPattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/StrategyPattern/bin/Debug/net5.0/StrategyPattern.pdb
+/Users/mercy/Desktop/examples/csharp/RGDP/StrategyPattern/obj/Debug/net5.0/StrategyPattern.csproj.AssemblyReference.cache
+/Users/mercy/Desktop/examples/csharp/RGDP/StrategyPattern/obj/Debug/net5.0/StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mercy/Desktop/examples/csharp/RGDP/StrategyPattern/obj/Debug/net5.0/StrategyPattern.AssemblyInfoInputs.cache
+/Users/mercy/Desktop/examples/csharp/RGDP/StrategyPattern/obj/Debug/net5.0/StrategyPattern.AssemblyInfo.cs
+/Users/mercy/Desktop/examples/csharp/RGDP/StrategyPattern/obj/Debug/net5.0/StrategyPattern.csproj.CoreCompileInputs.cache
+/Users/mercy/Desktop/examples/csharp/RGDP/StrategyPattern/obj/Debug/net5.0/StrategyPattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/StrategyPattern/obj/Debug/net5.0/ref/StrategyPattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/StrategyPattern/obj/Debug/net5.0/StrategyPattern.pdb
+/Users/mercy/Desktop/examples/csharp/RGDP/StrategyPattern/obj/Debug/net5.0/StrategyPattern.genruntimeconfig.cache

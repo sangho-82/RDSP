@@ -1,0 +1,15 @@
+/Users/mercy/Desktop/examples/csharp/RGDP/FacadePattern/bin/Debug/net5.0/FacadePattern.deps.json
+/Users/mercy/Desktop/examples/csharp/RGDP/FacadePattern/bin/Debug/net5.0/FacadePattern.runtimeconfig.json
+/Users/mercy/Desktop/examples/csharp/RGDP/FacadePattern/bin/Debug/net5.0/FacadePattern.runtimeconfig.dev.json
+/Users/mercy/Desktop/examples/csharp/RGDP/FacadePattern/bin/Debug/net5.0/FacadePattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/FacadePattern/bin/Debug/net5.0/ref/FacadePattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/FacadePattern/bin/Debug/net5.0/FacadePattern.pdb
+/Users/mercy/Desktop/examples/csharp/RGDP/FacadePattern/obj/Debug/net5.0/FacadePattern.csproj.AssemblyReference.cache
+/Users/mercy/Desktop/examples/csharp/RGDP/FacadePattern/obj/Debug/net5.0/FacadePattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mercy/Desktop/examples/csharp/RGDP/FacadePattern/obj/Debug/net5.0/FacadePattern.AssemblyInfoInputs.cache
+/Users/mercy/Desktop/examples/csharp/RGDP/FacadePattern/obj/Debug/net5.0/FacadePattern.AssemblyInfo.cs
+/Users/mercy/Desktop/examples/csharp/RGDP/FacadePattern/obj/Debug/net5.0/FacadePattern.csproj.CoreCompileInputs.cache
+/Users/mercy/Desktop/examples/csharp/RGDP/FacadePattern/obj/Debug/net5.0/FacadePattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/FacadePattern/obj/Debug/net5.0/ref/FacadePattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/FacadePattern/obj/Debug/net5.0/FacadePattern.pdb
+/Users/mercy/Desktop/examples/csharp/RGDP/FacadePattern/obj/Debug/net5.0/FacadePattern.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/mercy/Desktop/examples/csharp/RGDP/BuilderPattern/bin/Debug/net5.0/BuilderPattern.deps.json
+/Users/mercy/Desktop/examples/csharp/RGDP/BuilderPattern/bin/Debug/net5.0/BuilderPattern.runtimeconfig.json
+/Users/mercy/Desktop/examples/csharp/RGDP/BuilderPattern/bin/Debug/net5.0/BuilderPattern.runtimeconfig.dev.json
+/Users/mercy/Desktop/examples/csharp/RGDP/BuilderPattern/bin/Debug/net5.0/BuilderPattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/BuilderPattern/bin/Debug/net5.0/ref/BuilderPattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/BuilderPattern/bin/Debug/net5.0/BuilderPattern.pdb
+/Users/mercy/Desktop/examples/csharp/RGDP/BuilderPattern/obj/Debug/net5.0/BuilderPattern.csproj.AssemblyReference.cache
+/Users/mercy/Desktop/examples/csharp/RGDP/BuilderPattern/obj/Debug/net5.0/BuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mercy/Desktop/examples/csharp/RGDP/BuilderPattern/obj/Debug/net5.0/BuilderPattern.AssemblyInfoInputs.cache
+/Users/mercy/Desktop/examples/csharp/RGDP/BuilderPattern/obj/Debug/net5.0/BuilderPattern.AssemblyInfo.cs
+/Users/mercy/Desktop/examples/csharp/RGDP/BuilderPattern/obj/Debug/net5.0/BuilderPattern.csproj.CoreCompileInputs.cache
+/Users/mercy/Desktop/examples/csharp/RGDP/BuilderPattern/obj/Debug/net5.0/BuilderPattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/BuilderPattern/obj/Debug/net5.0/ref/BuilderPattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/BuilderPattern/obj/Debug/net5.0/BuilderPattern.pdb
+/Users/mercy/Desktop/examples/csharp/RGDP/BuilderPattern/obj/Debug/net5.0/BuilderPattern.genruntimeconfig.cache

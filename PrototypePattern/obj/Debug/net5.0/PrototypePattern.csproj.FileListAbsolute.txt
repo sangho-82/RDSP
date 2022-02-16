@@ -1,0 +1,15 @@
+/Users/mercy/Desktop/examples/csharp/RGDP/PrototypePattern/obj/Debug/net5.0/PrototypePattern.csproj.AssemblyReference.cache
+/Users/mercy/Desktop/examples/csharp/RGDP/PrototypePattern/obj/Debug/net5.0/PrototypePattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mercy/Desktop/examples/csharp/RGDP/PrototypePattern/obj/Debug/net5.0/PrototypePattern.AssemblyInfoInputs.cache
+/Users/mercy/Desktop/examples/csharp/RGDP/PrototypePattern/obj/Debug/net5.0/PrototypePattern.AssemblyInfo.cs
+/Users/mercy/Desktop/examples/csharp/RGDP/PrototypePattern/obj/Debug/net5.0/PrototypePattern.csproj.CoreCompileInputs.cache
+/Users/mercy/Desktop/examples/csharp/RGDP/PrototypePattern/bin/Debug/net5.0/PrototypePattern.deps.json
+/Users/mercy/Desktop/examples/csharp/RGDP/PrototypePattern/bin/Debug/net5.0/PrototypePattern.runtimeconfig.json
+/Users/mercy/Desktop/examples/csharp/RGDP/PrototypePattern/bin/Debug/net5.0/PrototypePattern.runtimeconfig.dev.json
+/Users/mercy/Desktop/examples/csharp/RGDP/PrototypePattern/bin/Debug/net5.0/PrototypePattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/PrototypePattern/bin/Debug/net5.0/ref/PrototypePattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/PrototypePattern/bin/Debug/net5.0/PrototypePattern.pdb
+/Users/mercy/Desktop/examples/csharp/RGDP/PrototypePattern/obj/Debug/net5.0/PrototypePattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/PrototypePattern/obj/Debug/net5.0/ref/PrototypePattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/PrototypePattern/obj/Debug/net5.0/PrototypePattern.pdb
+/Users/mercy/Desktop/examples/csharp/RGDP/PrototypePattern/obj/Debug/net5.0/PrototypePattern.genruntimeconfig.cache

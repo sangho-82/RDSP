@@ -1,0 +1,15 @@
+/Users/mercy/Desktop/examples/csharp/RGDP/FactoryMethodPattern/bin/Debug/net5.0/FactoryMethodPattern.deps.json
+/Users/mercy/Desktop/examples/csharp/RGDP/FactoryMethodPattern/bin/Debug/net5.0/FactoryMethodPattern.runtimeconfig.json
+/Users/mercy/Desktop/examples/csharp/RGDP/FactoryMethodPattern/bin/Debug/net5.0/FactoryMethodPattern.runtimeconfig.dev.json
+/Users/mercy/Desktop/examples/csharp/RGDP/FactoryMethodPattern/bin/Debug/net5.0/FactoryMethodPattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/FactoryMethodPattern/bin/Debug/net5.0/ref/FactoryMethodPattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/FactoryMethodPattern/bin/Debug/net5.0/FactoryMethodPattern.pdb
+/Users/mercy/Desktop/examples/csharp/RGDP/FactoryMethodPattern/obj/Debug/net5.0/FactoryMethodPattern.csproj.AssemblyReference.cache
+/Users/mercy/Desktop/examples/csharp/RGDP/FactoryMethodPattern/obj/Debug/net5.0/FactoryMethodPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mercy/Desktop/examples/csharp/RGDP/FactoryMethodPattern/obj/Debug/net5.0/FactoryMethodPattern.AssemblyInfoInputs.cache
+/Users/mercy/Desktop/examples/csharp/RGDP/FactoryMethodPattern/obj/Debug/net5.0/FactoryMethodPattern.AssemblyInfo.cs
+/Users/mercy/Desktop/examples/csharp/RGDP/FactoryMethodPattern/obj/Debug/net5.0/FactoryMethodPattern.csproj.CoreCompileInputs.cache
+/Users/mercy/Desktop/examples/csharp/RGDP/FactoryMethodPattern/obj/Debug/net5.0/FactoryMethodPattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/FactoryMethodPattern/obj/Debug/net5.0/ref/FactoryMethodPattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/FactoryMethodPattern/obj/Debug/net5.0/FactoryMethodPattern.pdb
+/Users/mercy/Desktop/examples/csharp/RGDP/FactoryMethodPattern/obj/Debug/net5.0/FactoryMethodPattern.genruntimeconfig.cache

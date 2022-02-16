@@ -1,0 +1,15 @@
+/Users/mercy/Desktop/examples/csharp/RGDP/IteratorPattern/bin/Debug/net5.0/IteratorPattern.deps.json
+/Users/mercy/Desktop/examples/csharp/RGDP/IteratorPattern/bin/Debug/net5.0/IteratorPattern.runtimeconfig.json
+/Users/mercy/Desktop/examples/csharp/RGDP/IteratorPattern/bin/Debug/net5.0/IteratorPattern.runtimeconfig.dev.json
+/Users/mercy/Desktop/examples/csharp/RGDP/IteratorPattern/bin/Debug/net5.0/IteratorPattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/IteratorPattern/bin/Debug/net5.0/ref/IteratorPattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/IteratorPattern/bin/Debug/net5.0/IteratorPattern.pdb
+/Users/mercy/Desktop/examples/csharp/RGDP/IteratorPattern/obj/Debug/net5.0/IteratorPattern.csproj.AssemblyReference.cache
+/Users/mercy/Desktop/examples/csharp/RGDP/IteratorPattern/obj/Debug/net5.0/IteratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mercy/Desktop/examples/csharp/RGDP/IteratorPattern/obj/Debug/net5.0/IteratorPattern.AssemblyInfoInputs.cache
+/Users/mercy/Desktop/examples/csharp/RGDP/IteratorPattern/obj/Debug/net5.0/IteratorPattern.AssemblyInfo.cs
+/Users/mercy/Desktop/examples/csharp/RGDP/IteratorPattern/obj/Debug/net5.0/IteratorPattern.csproj.CoreCompileInputs.cache
+/Users/mercy/Desktop/examples/csharp/RGDP/IteratorPattern/obj/Debug/net5.0/IteratorPattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/IteratorPattern/obj/Debug/net5.0/ref/IteratorPattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/IteratorPattern/obj/Debug/net5.0/IteratorPattern.pdb
+/Users/mercy/Desktop/examples/csharp/RGDP/IteratorPattern/obj/Debug/net5.0/IteratorPattern.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/mercy/Desktop/examples/csharp/RGDP/SingletonThreadSafePattern/bin/Debug/net5.0/SingletonThreadSafePattern.deps.json
+/Users/mercy/Desktop/examples/csharp/RGDP/SingletonThreadSafePattern/bin/Debug/net5.0/SingletonThreadSafePattern.runtimeconfig.json
+/Users/mercy/Desktop/examples/csharp/RGDP/SingletonThreadSafePattern/bin/Debug/net5.0/SingletonThreadSafePattern.runtimeconfig.dev.json
+/Users/mercy/Desktop/examples/csharp/RGDP/SingletonThreadSafePattern/bin/Debug/net5.0/SingletonThreadSafePattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/SingletonThreadSafePattern/bin/Debug/net5.0/ref/SingletonThreadSafePattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/SingletonThreadSafePattern/bin/Debug/net5.0/SingletonThreadSafePattern.pdb
+/Users/mercy/Desktop/examples/csharp/RGDP/SingletonThreadSafePattern/obj/Debug/net5.0/SingletonThreadSafePattern.csproj.AssemblyReference.cache
+/Users/mercy/Desktop/examples/csharp/RGDP/SingletonThreadSafePattern/obj/Debug/net5.0/SingletonThreadSafePattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mercy/Desktop/examples/csharp/RGDP/SingletonThreadSafePattern/obj/Debug/net5.0/SingletonThreadSafePattern.AssemblyInfoInputs.cache
+/Users/mercy/Desktop/examples/csharp/RGDP/SingletonThreadSafePattern/obj/Debug/net5.0/SingletonThreadSafePattern.AssemblyInfo.cs
+/Users/mercy/Desktop/examples/csharp/RGDP/SingletonThreadSafePattern/obj/Debug/net5.0/SingletonThreadSafePattern.csproj.CoreCompileInputs.cache
+/Users/mercy/Desktop/examples/csharp/RGDP/SingletonThreadSafePattern/obj/Debug/net5.0/SingletonThreadSafePattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/SingletonThreadSafePattern/obj/Debug/net5.0/ref/SingletonThreadSafePattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/SingletonThreadSafePattern/obj/Debug/net5.0/SingletonThreadSafePattern.pdb
+/Users/mercy/Desktop/examples/csharp/RGDP/SingletonThreadSafePattern/obj/Debug/net5.0/SingletonThreadSafePattern.genruntimeconfig.cache

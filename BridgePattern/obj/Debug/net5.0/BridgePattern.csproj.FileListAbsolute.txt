@@ -1,0 +1,15 @@
+/Users/mercy/Desktop/examples/csharp/RGDP/BridgePattern/bin/Debug/net5.0/BridgePattern.deps.json
+/Users/mercy/Desktop/examples/csharp/RGDP/BridgePattern/bin/Debug/net5.0/BridgePattern.runtimeconfig.json
+/Users/mercy/Desktop/examples/csharp/RGDP/BridgePattern/bin/Debug/net5.0/BridgePattern.runtimeconfig.dev.json
+/Users/mercy/Desktop/examples/csharp/RGDP/BridgePattern/bin/Debug/net5.0/BridgePattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/BridgePattern/bin/Debug/net5.0/ref/BridgePattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/BridgePattern/bin/Debug/net5.0/BridgePattern.pdb
+/Users/mercy/Desktop/examples/csharp/RGDP/BridgePattern/obj/Debug/net5.0/BridgePattern.csproj.AssemblyReference.cache
+/Users/mercy/Desktop/examples/csharp/RGDP/BridgePattern/obj/Debug/net5.0/BridgePattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mercy/Desktop/examples/csharp/RGDP/BridgePattern/obj/Debug/net5.0/BridgePattern.AssemblyInfoInputs.cache
+/Users/mercy/Desktop/examples/csharp/RGDP/BridgePattern/obj/Debug/net5.0/BridgePattern.AssemblyInfo.cs
+/Users/mercy/Desktop/examples/csharp/RGDP/BridgePattern/obj/Debug/net5.0/BridgePattern.csproj.CoreCompileInputs.cache
+/Users/mercy/Desktop/examples/csharp/RGDP/BridgePattern/obj/Debug/net5.0/BridgePattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/BridgePattern/obj/Debug/net5.0/ref/BridgePattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/BridgePattern/obj/Debug/net5.0/BridgePattern.pdb
+/Users/mercy/Desktop/examples/csharp/RGDP/BridgePattern/obj/Debug/net5.0/BridgePattern.genruntimeconfig.cache

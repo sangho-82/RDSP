@@ -1,0 +1,15 @@
+/Users/mercy/Desktop/examples/csharp/RGDP/ObserverPattern/bin/Debug/net5.0/ObserverPattern.deps.json
+/Users/mercy/Desktop/examples/csharp/RGDP/ObserverPattern/bin/Debug/net5.0/ObserverPattern.runtimeconfig.json
+/Users/mercy/Desktop/examples/csharp/RGDP/ObserverPattern/bin/Debug/net5.0/ObserverPattern.runtimeconfig.dev.json
+/Users/mercy/Desktop/examples/csharp/RGDP/ObserverPattern/bin/Debug/net5.0/ObserverPattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/ObserverPattern/bin/Debug/net5.0/ref/ObserverPattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/ObserverPattern/bin/Debug/net5.0/ObserverPattern.pdb
+/Users/mercy/Desktop/examples/csharp/RGDP/ObserverPattern/obj/Debug/net5.0/ObserverPattern.csproj.AssemblyReference.cache
+/Users/mercy/Desktop/examples/csharp/RGDP/ObserverPattern/obj/Debug/net5.0/ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mercy/Desktop/examples/csharp/RGDP/ObserverPattern/obj/Debug/net5.0/ObserverPattern.AssemblyInfoInputs.cache
+/Users/mercy/Desktop/examples/csharp/RGDP/ObserverPattern/obj/Debug/net5.0/ObserverPattern.AssemblyInfo.cs
+/Users/mercy/Desktop/examples/csharp/RGDP/ObserverPattern/obj/Debug/net5.0/ObserverPattern.csproj.CoreCompileInputs.cache
+/Users/mercy/Desktop/examples/csharp/RGDP/ObserverPattern/obj/Debug/net5.0/ObserverPattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/ObserverPattern/obj/Debug/net5.0/ref/ObserverPattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/ObserverPattern/obj/Debug/net5.0/ObserverPattern.pdb
+/Users/mercy/Desktop/examples/csharp/RGDP/ObserverPattern/obj/Debug/net5.0/ObserverPattern.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/mercy/Desktop/examples/csharp/RGDP/MementoPattern/bin/Debug/net5.0/MementoPattern.deps.json
+/Users/mercy/Desktop/examples/csharp/RGDP/MementoPattern/bin/Debug/net5.0/MementoPattern.runtimeconfig.json
+/Users/mercy/Desktop/examples/csharp/RGDP/MementoPattern/bin/Debug/net5.0/MementoPattern.runtimeconfig.dev.json
+/Users/mercy/Desktop/examples/csharp/RGDP/MementoPattern/bin/Debug/net5.0/MementoPattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/MementoPattern/bin/Debug/net5.0/ref/MementoPattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/MementoPattern/bin/Debug/net5.0/MementoPattern.pdb
+/Users/mercy/Desktop/examples/csharp/RGDP/MementoPattern/obj/Debug/net5.0/MementoPattern.csproj.AssemblyReference.cache
+/Users/mercy/Desktop/examples/csharp/RGDP/MementoPattern/obj/Debug/net5.0/MementoPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mercy/Desktop/examples/csharp/RGDP/MementoPattern/obj/Debug/net5.0/MementoPattern.AssemblyInfoInputs.cache
+/Users/mercy/Desktop/examples/csharp/RGDP/MementoPattern/obj/Debug/net5.0/MementoPattern.AssemblyInfo.cs
+/Users/mercy/Desktop/examples/csharp/RGDP/MementoPattern/obj/Debug/net5.0/MementoPattern.csproj.CoreCompileInputs.cache
+/Users/mercy/Desktop/examples/csharp/RGDP/MementoPattern/obj/Debug/net5.0/MementoPattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/MementoPattern/obj/Debug/net5.0/ref/MementoPattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/MementoPattern/obj/Debug/net5.0/MementoPattern.pdb
+/Users/mercy/Desktop/examples/csharp/RGDP/MementoPattern/obj/Debug/net5.0/MementoPattern.genruntimeconfig.cache

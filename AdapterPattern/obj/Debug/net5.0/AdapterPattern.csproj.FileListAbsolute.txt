@@ -1,0 +1,15 @@
+/Users/mercy/Desktop/examples/csharp/RGDP/AdapterPattern/bin/Debug/net5.0/AdapterPattern.deps.json
+/Users/mercy/Desktop/examples/csharp/RGDP/AdapterPattern/bin/Debug/net5.0/AdapterPattern.runtimeconfig.json
+/Users/mercy/Desktop/examples/csharp/RGDP/AdapterPattern/bin/Debug/net5.0/AdapterPattern.runtimeconfig.dev.json
+/Users/mercy/Desktop/examples/csharp/RGDP/AdapterPattern/bin/Debug/net5.0/AdapterPattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/AdapterPattern/bin/Debug/net5.0/ref/AdapterPattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/AdapterPattern/bin/Debug/net5.0/AdapterPattern.pdb
+/Users/mercy/Desktop/examples/csharp/RGDP/AdapterPattern/obj/Debug/net5.0/AdapterPattern.csproj.AssemblyReference.cache
+/Users/mercy/Desktop/examples/csharp/RGDP/AdapterPattern/obj/Debug/net5.0/AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mercy/Desktop/examples/csharp/RGDP/AdapterPattern/obj/Debug/net5.0/AdapterPattern.AssemblyInfoInputs.cache
+/Users/mercy/Desktop/examples/csharp/RGDP/AdapterPattern/obj/Debug/net5.0/AdapterPattern.AssemblyInfo.cs
+/Users/mercy/Desktop/examples/csharp/RGDP/AdapterPattern/obj/Debug/net5.0/AdapterPattern.csproj.CoreCompileInputs.cache
+/Users/mercy/Desktop/examples/csharp/RGDP/AdapterPattern/obj/Debug/net5.0/AdapterPattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/AdapterPattern/obj/Debug/net5.0/ref/AdapterPattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/AdapterPattern/obj/Debug/net5.0/AdapterPattern.pdb
+/Users/mercy/Desktop/examples/csharp/RGDP/AdapterPattern/obj/Debug/net5.0/AdapterPattern.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/mercy/Desktop/examples/csharp/RGDP/CommandPattern/bin/Debug/net5.0/CommandPattern.deps.json
+/Users/mercy/Desktop/examples/csharp/RGDP/CommandPattern/bin/Debug/net5.0/CommandPattern.runtimeconfig.json
+/Users/mercy/Desktop/examples/csharp/RGDP/CommandPattern/bin/Debug/net5.0/CommandPattern.runtimeconfig.dev.json
+/Users/mercy/Desktop/examples/csharp/RGDP/CommandPattern/bin/Debug/net5.0/CommandPattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/CommandPattern/bin/Debug/net5.0/ref/CommandPattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/CommandPattern/bin/Debug/net5.0/CommandPattern.pdb
+/Users/mercy/Desktop/examples/csharp/RGDP/CommandPattern/obj/Debug/net5.0/CommandPattern.csproj.AssemblyReference.cache
+/Users/mercy/Desktop/examples/csharp/RGDP/CommandPattern/obj/Debug/net5.0/CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mercy/Desktop/examples/csharp/RGDP/CommandPattern/obj/Debug/net5.0/CommandPattern.AssemblyInfoInputs.cache
+/Users/mercy/Desktop/examples/csharp/RGDP/CommandPattern/obj/Debug/net5.0/CommandPattern.AssemblyInfo.cs
+/Users/mercy/Desktop/examples/csharp/RGDP/CommandPattern/obj/Debug/net5.0/CommandPattern.csproj.CoreCompileInputs.cache
+/Users/mercy/Desktop/examples/csharp/RGDP/CommandPattern/obj/Debug/net5.0/CommandPattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/CommandPattern/obj/Debug/net5.0/ref/CommandPattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/CommandPattern/obj/Debug/net5.0/CommandPattern.pdb
+/Users/mercy/Desktop/examples/csharp/RGDP/CommandPattern/obj/Debug/net5.0/CommandPattern.genruntimeconfig.cache

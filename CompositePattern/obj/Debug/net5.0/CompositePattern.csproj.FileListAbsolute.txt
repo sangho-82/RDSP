@@ -1,0 +1,15 @@
+/Users/mercy/Desktop/examples/csharp/RGDP/CompositePattern/bin/Debug/net5.0/CompositePattern.deps.json
+/Users/mercy/Desktop/examples/csharp/RGDP/CompositePattern/bin/Debug/net5.0/CompositePattern.runtimeconfig.json
+/Users/mercy/Desktop/examples/csharp/RGDP/CompositePattern/bin/Debug/net5.0/CompositePattern.runtimeconfig.dev.json
+/Users/mercy/Desktop/examples/csharp/RGDP/CompositePattern/bin/Debug/net5.0/CompositePattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/CompositePattern/bin/Debug/net5.0/ref/CompositePattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/CompositePattern/bin/Debug/net5.0/CompositePattern.pdb
+/Users/mercy/Desktop/examples/csharp/RGDP/CompositePattern/obj/Debug/net5.0/CompositePattern.csproj.AssemblyReference.cache
+/Users/mercy/Desktop/examples/csharp/RGDP/CompositePattern/obj/Debug/net5.0/CompositePattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mercy/Desktop/examples/csharp/RGDP/CompositePattern/obj/Debug/net5.0/CompositePattern.AssemblyInfoInputs.cache
+/Users/mercy/Desktop/examples/csharp/RGDP/CompositePattern/obj/Debug/net5.0/CompositePattern.AssemblyInfo.cs
+/Users/mercy/Desktop/examples/csharp/RGDP/CompositePattern/obj/Debug/net5.0/CompositePattern.csproj.CoreCompileInputs.cache
+/Users/mercy/Desktop/examples/csharp/RGDP/CompositePattern/obj/Debug/net5.0/CompositePattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/CompositePattern/obj/Debug/net5.0/ref/CompositePattern.dll
+/Users/mercy/Desktop/examples/csharp/RGDP/CompositePattern/obj/Debug/net5.0/CompositePattern.pdb
+/Users/mercy/Desktop/examples/csharp/RGDP/CompositePattern/obj/Debug/net5.0/CompositePattern.genruntimeconfig.cache
